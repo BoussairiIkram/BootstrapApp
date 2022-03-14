@@ -1,0 +1,54 @@
+*{
+    margin : 0;
+  
+}
+.Logo{
+    font-size: 100px;
+    height: 40px;
+    width: 40px;
+}
+.Coloc{
+    height: 450px;
+}
+.Label{
+    font-size: 30px;
+    font-weight: bold;
+    color: #dc3545;
+}
+.Label1{
+    font-weight: bold;
+    color: rgb(41, 39, 39);
+}
+
+.Test{
+    height: 500px;
+    background-color: #dc3545;
+    margin-top: 200px;
+    /* margin-bottom: 200px; */
+  
+}
+
+.Test1{
+    height: 200px;
+    background-color: blue;
+    
+    /* margin-top: 400px; */
+}
+.tete{
+    height: 100px;
+    background-color: blue;
+}
+
+.Cards{
+    margin-top: 200px;
+}
+
+.pc{
+    height: 230px;
+}
+
+.NE{
+    font-weight: bold;
+    font-size: 200;
+    color: ;
+}
